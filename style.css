@@ -57,6 +57,7 @@ h3 {
 }
 
 .attribution {
+  background-color: var(--light-gray);
   font-size: 11px;
   text-align: center;
 }
