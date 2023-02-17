@@ -38,5 +38,4 @@ I want to continue to build on my CSS skills. Being able to look at a component/
 ## Author
 
 - Website - [Alex Liebhaber](https://alexliebhaber.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@alexliebhaber](https://www.twitter.com/alex_liebhaber)
